@@ -10,7 +10,7 @@ Select language ❯ English • [**中文**](README.md)
 
 
 
-# VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown
+# VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 
 

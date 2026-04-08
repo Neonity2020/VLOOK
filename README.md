@@ -8,7 +8,7 @@ Select language ❯  [**English**](README-en.md) • 中文
 
 # VLOOK™ ── 让你的 Markdown 有了新看(wán)法
 
-# 优雅好用的 Typora / Markdown 主题包×增强插件
+# 优雅好用的 Typora / Markdown 主题包×排版增强插件
 
 
 
@@ -16,7 +16,7 @@ Select language ❯  [**English**](README-en.md) • 中文
 
 
 
-[VLOOK™](https://github.com/MadMaxChow/VLOOK) 是针对 [Typora](https://www.typora.io)（跨平台 Markdown 编辑器）的 **主题包** 和 **增强插件**。
+[VLOOK™](https://github.com/MadMaxChow/VLOOK) 是针对 [Typora](https://www.typora.io)（跨平台 Markdown 编辑器）的 **主题包** 和 **排版增强插件**。
 
 VLOOK™ 属于开源软件（遵从 **[MIT 许可证](#许可协议)**）。
 
@@ -30,7 +30,7 @@ VLOOK™ 属于开源软件（遵从 **[MIT 许可证](#许可协议)**）。
 
 
 
-> - 👍 Typora 官方认可支持的主题包和增强插件，详见 [Typora Support - Export](https://support.typora.io/Export/#example-export-using-vlook) 
+> - 👍 Typora 官方认可支持的主题包和排版增强插件，详见 [Typora Support - Export](https://support.typora.io/Export/#example-export-using-vlook) 
 > - 👍 [OSCHINA (开源中国)](https://www.oschina.net/p/vlook) 推荐的国产开源项目
 > - 👍 [AtomGit](https://atomgit.com/MadMaxChow/VLOOK) **G-Star** 优质项目 ![star VLOOK](https://atomgit.com/MadMaxChow/VLOOK/star/badge.svg#icon)
 >
